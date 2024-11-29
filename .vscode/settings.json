@@ -1,0 +1,16 @@
+{
+    "cSpell.words": [
+        "itauapipix"
+    ],
+
+    "rest-client.certificates": {
+        "sts.itau.com.br": {
+            "cert": "certs/coralli-itau.pem",
+            "key": "certs/coralli-itau.pem"
+        },
+        "secure.api.itau": {
+            "cert": "certs/coralli-itau.pem",
+            "key": "certs/coralli-itau.pem"
+        }
+    }
+}
