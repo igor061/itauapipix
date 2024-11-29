@@ -3,7 +3,7 @@ import os
 import requests
 from requests.auth import AuthBase
 
-import env_itauapipix as env
+import env
 
 class BadCredentials(Exception):
     ...
