@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name=itauapipix',
+    name='itauapipix',
     version='0.4',
     packages=find_packages(),
     #package_data={'itauapipix': ['server_certs/*.cer']},
