@@ -150,7 +150,7 @@ class ItauClient:
         resp.raise_for_status()
         return resp
 
-    # init_datetime: '2023-09-01T00:00:01UTC-3'
+    # init_datetime: '2023-09-01T00:00:01Z'
     def received_pixs(self, init_datetime, end_datetime):
         params = {
             'inicio': init_datetime,
