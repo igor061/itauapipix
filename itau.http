@@ -17,7 +17,7 @@ grant_type=client_credentials&client_id={{CLIENT_ID}}&client_secret={{SECRET}}
 
 ###
 # Pega lista PIX
- GET https://secure.api.itau/pix_recebimentos/v2/pix?inicio=2024-11-20T00:00:00.000Z&fim=2024-11-28T00:00:00.000Z
+ GET https://secure.gateway.api.itau/pix_recebimentos/v2/pix?inicio=2024-11-20T00:00:00.000Z&fim=2024-11-28T00:00:00.000Z
 Authorization: Bearer {{token}}
 x-itau-apikey: {{CLIENT_ID}}
 

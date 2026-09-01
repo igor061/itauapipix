@@ -26,7 +26,7 @@ SERVERS_CONF = {
             'endpoint': 'https://sts.itau.com.br/api/oauth/token',
         },
         'api': {
-            'endpoint': 'https://secure.api.itau/pix_recebimentos/v2/',
+            'endpoint': 'https://secure.gateway.api.itau/pix_recebimentos/v2/',
         },
     },
 

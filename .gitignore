@@ -3,3 +3,7 @@ certs
 env.py
 __pycache__
 .env
+ultimo_txid.txt
+.venv
+output/
+emv.txt
