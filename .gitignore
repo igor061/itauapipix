@@ -7,3 +7,5 @@ ultimo_txid.txt
 .venv
 output/
 emv.txt
+.env*
+!.env.example
